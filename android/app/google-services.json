@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041964883161",
+    "firebase_url": "https://big-wallet-82a81.firebaseio.com",
+    "project_id": "big-wallet-82a81",
+    "storage_bucket": "big-wallet-82a81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041964883161:android:ac01d0d7170f014d40b2c8",
+        "android_client_info": {
+          "package_name": "com.example.bigwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041964883161-se01gn1dcdb0ht37bqofj8j6r49jgeje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bigwallet",
+            "certificate_hash": "cc9ee08c289dfdb6b74a03d6273e64d3d777553e"
+          }
+        },
+        {
+          "client_id": "1041964883161-264hca3ej8k6ib28v3t4ljbmm2lkd675.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHvevXuNu7vL_ZOAFCdmmvZti6CPGBB3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041964883161-264hca3ej8k6ib28v3t4ljbmm2lkd675.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
