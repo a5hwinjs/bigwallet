@@ -32,6 +32,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  cloud_firestore: ^0.8.2+3
+  fluttertoast: ^4.0.1
+  shared_preferences: ^0.5.7+3
+  google_sign_in: ^4.5.1
+  firebase_auth: ^0.6.6
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
